@@ -13,7 +13,7 @@ Whether it was teaching myself graphic design in middle school, starting e-comme
 
 ### A little more about me
 
-When I'm not in class or I'm not workng, I'm most likely selling stuff online, cleaning my fish tank, writing poems, learning a new skill, spending time with loved ones, reading a book, designing, exercising, cooking, eating, and most commonly, organizing something that doesn't need to be organized.
+When I'm not in class or I'm not workng, I'm most likely selling stuff online, cleaning my fish tank, writing poems, learning a new skill, spending time with loved ones, reading a book, binging YouTube, designing, exercising, cooking, eating, and most commonly, organizing something that doesn't need to be organized.
 
 > Clutter smothers, simplicity breathes.
 ***
