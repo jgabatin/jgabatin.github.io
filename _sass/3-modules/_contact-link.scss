@@ -2,11 +2,11 @@
   .contact__list {
     li {
       display: inline-block;
-      justify-content: space-between;
-      padding: 10px 0;
 
       a {
         font-size: 24px;
+        justify-content: space-between;
+        padding: 10px 0;
         color: $gray;
         &:hover {
           color: $dark;
