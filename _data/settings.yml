@@ -9,7 +9,7 @@ description:
 # Author Settings
 author:
   name: John Gabatin
-  image: 01.jpg
+  image: home-pic.jpg
   say-hello: Hi, I’m <strong>John Gabatin</strong>
   bio: This is a sample description about myself.
 
