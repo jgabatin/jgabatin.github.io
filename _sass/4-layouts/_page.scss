@@ -3,7 +3,7 @@
   border-top: 1px solid $light-gray;
 
   .page-title {
-    font-size: 57px;
+    font-size: 40px;
     line-height: 70px;
     margin: 0;
   }
@@ -28,7 +28,7 @@
     &:after {
       content: "";
       display: table;
-      width: 100%;
+      width: 50%;
       min-height: 300px;
       padding-top: 50%;
     }
