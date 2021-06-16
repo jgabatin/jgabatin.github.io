@@ -63,7 +63,6 @@
 }
 
 .post-image {
-    background-size: 40%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -71,7 +70,7 @@
   &:after {
     content: "";
     display: table;
-    width: 100%;
+    width: 65%;
     min-height: 400px;
     padding-top: 35%;
   }
