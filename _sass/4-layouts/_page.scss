@@ -36,6 +36,7 @@
   
   @media only screen and (max-width: $mobile) {
     .page-image {
+      display: none; /* Option: turn on header photo */
       background-size: 80%;
       background-position: center;
       background-repeat: no-repeat;
