@@ -6,7 +6,7 @@
     margin-bottom: 10px;
     width: 500px;
     max-width: 100%;
-    font-size: 57px;
+    font-size: 38px;
     line-height: 70px;
   }
 
@@ -19,7 +19,7 @@
 
     .post-title {
       margin: 10px 0;
-      font-size: 47px;
+      font-size: 38px;
       line-height: 53px;
     }
   }
@@ -63,16 +63,17 @@
 }
 
 .post-image {
+    background-size: 40%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $light-gray;
+    background-color: $white;
   &:after {
     content: "";
     display: table;
     width: 100%;
-    min-height: 300px;
-    padding-top: 50%;
+    min-height: 400px;
+    padding-top: 35%;
   }
 }
 
