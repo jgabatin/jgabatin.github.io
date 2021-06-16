@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumé
-permalink: google.com/
+permalink: /resume/
 image: 08.jpg
 ---
 
