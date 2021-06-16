@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Style Guide
-permalink: /styleguide/
+title: Resumé
+permalink: google.com/
 image: 08.jpg
 ---
 
