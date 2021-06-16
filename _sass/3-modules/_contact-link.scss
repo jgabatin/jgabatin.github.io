@@ -1,11 +1,10 @@
 .contact {
   .contact__list {
     li {
-      margin-left: 15px;
       display: inline-block;
 
       a {
-        font-size: 22px;
+        font-size: 24px;
         color: $gray;
         &:hover {
           color: $dark;
