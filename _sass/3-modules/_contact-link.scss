@@ -1,10 +1,9 @@
 .contact {
   .contact__list {
     li {
-      margin-left: 5px;
-      column-gap: 10px;
-      display: flex;
-      justify-content: space-between;
+      margin-left: 2px;
+      padding: 0px 10px;
+      display: inline-block;
 
       a {
         font-size: 24px;
