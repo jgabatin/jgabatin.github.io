@@ -10,8 +10,8 @@ description:
 author:
   name: John Gabatin
   image: 01.jpg
-  say-hello: Hello, I’m <strong>John Gabatin</strong>
-  bio: 
+  say-hello: Hi, I’m <strong>John Gabatin</strong>
+  bio: This is a sample description about myself.
 
 
 #-------------------------------
