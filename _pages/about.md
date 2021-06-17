@@ -11,7 +11,7 @@ Whether it was teaching myself graphic design in middle school, kick-starting e-
 
 ***
 
-### A little more about me
+<h3 style="color:#c08552;">A little more about me</h3>
 
 When I'm not in class or working, I'm most likely selling stuff online, cleaning my fish tank, writing poems, learning a new skill, spending time with loved ones, reading a book, binging YouTube, designing, exercising, cooking, eating, and most commonly, (re)organizing something that's already organized.
 
