@@ -1,6 +1,5 @@
-My Portfolio
+Personal Portfolio
 ======
-Powered by Jekyll & [Zolan](https://github.com/artemsheludko/zolan)
-
+Powered by Jekyll & Zolan
 MIT License
 
