@@ -18,7 +18,3 @@ When I'm not in class or working, I'm most likely selling stuff online, cleaning
 ***
 
 <p style="text-align:center;">"Any product that needs a manual to work is broken." - Elon Musk</p>
-
-***
-
-
