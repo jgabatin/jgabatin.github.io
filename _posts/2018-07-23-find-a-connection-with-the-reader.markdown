@@ -48,8 +48,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 500px;
   margin-right: 50px;
   border-radius: 10px;
   background: white;
@@ -68,8 +68,8 @@ img {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
 }
 .slider > a {
   display: inline-flex;
@@ -112,6 +112,8 @@ img {
     </div>
   </div>
 </div>
+
+<br>
 
 <h1 style="color:#3e6913;">Header</h1>
 
