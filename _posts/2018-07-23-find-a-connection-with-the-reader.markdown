@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   justify-content: center;
 }
 .slider {
-  width: 1500px;
+  width: 1200px;
   text-align: center;
   overflow: hidden;
 }
@@ -68,8 +68,8 @@ img {
   position: absolute;
   top: 0;
   left: 0;
-  width: 90%;
-  height: 90%;
+  width: 95%;
+  height: 95%;
 }
 .slider > a {
   display: inline-flex;
