@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .buttons {
   position: relative;
-  bottom: 50px;
+  padding: 25px;
 }
 .buttons a {
   display: inline-block;
