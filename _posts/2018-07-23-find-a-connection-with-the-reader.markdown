@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   flex-shrink: 0;
   width: 500px;
   height: 500px;
-  margin-right: 50px;
+  margin-right: 25px;
   border-radius: 10px;
   background: white;
   transform-origin: center center;
