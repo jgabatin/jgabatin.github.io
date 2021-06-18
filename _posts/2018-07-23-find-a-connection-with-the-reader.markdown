@@ -52,16 +52,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   left: -1000px;
 }
 .buttons {
-  position: relative;
-  display: flex;
-  justify-content: center;
+      position: relative;
+      top: -20px;
 }
 .buttons a {
-  display: inline-block; 
+  display: inline-block;
   height: 15px;
   width: 15px;
   border-radius: 50px;
-  background-color: gray;
+  background-color: lightgreen;
 }
 </style>
 
@@ -90,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   </div>
 </body>
 
-<p></p>
+<br></br>
 
 <h1 style="color:#3e6913;">Header</h1>
 
