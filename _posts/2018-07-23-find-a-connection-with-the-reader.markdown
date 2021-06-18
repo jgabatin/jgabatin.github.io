@@ -16,20 +16,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 
 <style>
 .slider {
-  justify-content: center;
-  width: 300px;
-  height: 300px;
-  display: flex;
-  overflow-x: auto;
-  
-  -webkit-overflow-scrolling: touch;
-  scroll-snap-type: x mandatory; 
-  scroll-behavior: smooth;
+  width: 500px;
+  text-align: center;
+  overflow: hidden;
 }
 .slides {
-  width: 300px;
-  flex-shrink: 0;
-  height: 100%;
+  display: flex;
+  
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
 }
 .slides::-webkit-scrollbar {
   width: 10px;
@@ -60,10 +58,72 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   align-items: center;
   font-size: 100px;
 }
+.author-info {
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 0.75rem;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+}
+.author-info a {
+  color: white;
+}
+img {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.slider > a {
+  display: inline-flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: white;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin: 0 0 0.5rem 0;
+  position: relative;
+}
+.slider > a:active {
+  top: 1px;
+}
+.slider > a:focus {
+  background: #000;
+}
 </style>
 
 <div class="slider">
-  <div class="slides" id="slide-1">1</div>
-  <div class="slides" id="slide-2">2</div>
-  <div class="slides" id="slide-3">3</div>
+  
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
+
+  <div class="slides">
+    <div id="slide-1">
+      1
+    </div>
+    <div id="slide-2">
+      2
+    </div>
+    <div id="slide-3">
+      3
+    </div>
+    <div id="slide-4">
+      4
+    </div>
+    <div id="slide-5">
+      5
+    </div>
+  </div>
 </div>
