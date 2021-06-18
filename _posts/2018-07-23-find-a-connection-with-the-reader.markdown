@@ -30,6 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   display: flex;
   
   overflow-x: auto;
+  overflow-y: hidden;
   scroll-snap-type: x mandatory;
   
   scroll-behavior: smooth;
@@ -40,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   height: 10px;
 }
 .slides::-webkit-scrollbar-thumb {
-  background: black;
+  background: #f5f5f5;
   border-radius: 10px;
 }
 .slides::-webkit-scrollbar-track {
