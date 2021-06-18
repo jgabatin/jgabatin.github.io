@@ -97,19 +97,19 @@ img {
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/4.png">
+        <img src="/images/browse.png">
       </div>
       <div id="slide-2">
-        <img src="/images/4.png">
+        <img src="/images/browse.png">
       </div>
       <div id="slide-3">
-        <img src="/images/4.png">
+        <img src="/images/browse.png">
       </div>
       <div id="slide-4">
-        <img src="/images/4.png">
+        <img src="/images/browse.png">
       </div>
       <div id="slide-5">
-        <img src="/images/4.png">
+        <img src="/images/browse.png">
       </div>
     </div>
   </div>
