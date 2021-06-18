@@ -109,19 +109,19 @@ img {
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        1
+        <img src="03.jpg"></img>
       </div>
       <div id="slide-2">
-        2
+        <img src="04.jpg"></img>
       </div>
       <div id="slide-3">
-        3
+        <img src="10.jpg"></img>
       </div>
       <div id="slide-4">
-        4
+        <img src="04.jpg"></img>
       </div>
       <div id="slide-5">
-        5
+        <img src="10.jpg"></img>
       </div>
     </div>
   </div>
