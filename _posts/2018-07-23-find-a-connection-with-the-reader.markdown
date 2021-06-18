@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 .slider {
   width: 500px;
   height: 300px;
-  background-color: yellow;
+  background-color: white;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
@@ -57,7 +57,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .buttons a {
   display: inline-block;
-  text-align: center;
+  top: 50%;
+  left: 50%;  
   height: 15px;
   width: 15px;
   border-radius: 50px;
@@ -69,17 +70,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   <div class="slider">
     <span id="slide-1">
       <div class="image-container">
-        <img src="/images/03.jpg" class="slide" width="100" height="100" />
+        <img src="/images/03.jpg" class="slide" width="60%" height="60%" />
       </div>
     </span>
     <span id="slide-2">
       <div class="image-container">
-        <img src="/images/04.jpg" class="slide" width="100" height="100" />
+        <img src="/images/04.jpg" class="slide" width="60%" height="60%" />
       </div>
     </span>
     <span id="slide-3">
       <div class="image-container">
-        <img src="/images/10.jpg" class="slide" width="100" height="100" />
+        <img src="/images/10.jpg" class="slide" width="60%" height="60%" />
       </div>
     </span>
   </div>
