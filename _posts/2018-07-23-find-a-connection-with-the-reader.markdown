@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   height: 10px;
 }
 .slides::-webkit-scrollbar-thumb {
-  background: #f5f5f5;
+  background: #bbbbbb;
   border-radius: 10px;
 }
 .slides::-webkit-scrollbar-track {
@@ -97,19 +97,19 @@ img {
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/03.jpg">
+        <img src="/images/4.png">
       </div>
       <div id="slide-2">
-        <img src="/images/03.jpg">
+        <img src="/images/4.png">
       </div>
       <div id="slide-3">
-        <img src="/images/03.jpg">
+        <img src="/images/4.png">
       </div>
       <div id="slide-4">
-        <img src="/images/03.jpg">
+        <img src="/images/4.png">
       </div>
       <div id="slide-5">
-        <img src="/images/03.jpg">
+        <img src="/images/4.png">
       </div>
     </div>
   </div>
