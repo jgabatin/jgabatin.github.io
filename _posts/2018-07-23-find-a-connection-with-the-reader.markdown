@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 250px;
   position: relative;
   margin: auto;
 }
