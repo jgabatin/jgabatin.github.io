@@ -81,11 +81,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
         <img src="/images/03.jpg" class="slide" width="100" height="100" />
       </div>
     </span>
-
-    <div class="buttons">
+  </div>
+  
+  <div class="buttons">
       <a href="#slide-1"></a>
       <a href="#slide-2"></a>
       <a href="#slide-3"></a>
-    </div>
   </div>
 </body>
