@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .image-container {
   width: 1500px;
-  background-color: pink;
+  background-color: white;
   height: 300px;
   clear: both;
   position: relative;
@@ -57,10 +57,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .buttons a {
   display: inline-block;
+  text-align: center;
   height: 15px;
   width: 15px;
   border-radius: 50px;
-  background-color: lightgreen;
+  background-color: gray;
 }
 </style>
 
@@ -73,12 +74,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
     </span>
     <span id="slide-2">
       <div class="image-container">
-        <img src="/images/03.jpg" class="slide" width="100" height="100" />
+        <img src="/images/04.jpg" class="slide" width="100" height="100" />
       </div>
     </span>
     <span id="slide-3">
       <div class="image-container">
-        <img src="/images/03.jpg" class="slide" width="100" height="100" />
+        <img src="/images/10.jpg" class="slide" width="100" height="100" />
       </div>
     </span>
   </div>
