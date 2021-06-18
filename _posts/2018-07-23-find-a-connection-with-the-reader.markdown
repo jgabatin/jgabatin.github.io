@@ -20,8 +20,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
     max-width: 60%;
   }
   .slider-container {
-    height: 100%;
-    width: 100%;
+    height: 80%;
+    width: 80%;
     position: relative;
     overflow: hidden;
     text-align: center;
@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
     position: absolute;
     left: 0;
     z-index: 900;
-    width: 100%;
+    width: 80%;
     bottom: 0;
   }
   .menu label {
@@ -47,11 +47,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
     background: #1c87c9;
   }
   .slide {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     position: absolute;
     top: 0;
-    left: 100%;
     z-index: 10;
     padding: 8em 1em 0;
     background-size: cover;
