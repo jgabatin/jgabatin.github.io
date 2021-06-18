@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   font-size: 100px;
 }
 .author-info {
-  background: rgba(0, 0, 0, 0.75);
+  background: white;
   color: white;
   padding: 0.75rem;
   text-align: center;
@@ -107,29 +107,27 @@ img {
 }
 </style>
 
-<body style="overflow-y:hidden">
-  <div class="center">
-    <div class="slider">
-      <div class="slides">
-        <div id="slide-1">
-          <img src="/images/03.jpg"></img>
-        </div>
-        <div id="slide-2">
-          <img src="/images/04.jpg"></img>
-        </div>
-        <div id="slide-3">
-          <img src="/images/10.jpg"></img>
-        </div>
-        <div id="slide-4">
-          <img src="/images/04.jpg"></img>
-        </div>
-        <div id="slide-5">
-          <img src="/images/10.jpg"></img>
-        </div>
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
+        <img src="/images/03.jpg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/03.jpg">
+      </div>
+      <div id="slide-3">
+        <img src="/images/03.jpg">
+      </div>
+      <div id="slide-4">
+        <img src="/images/03.jpg">
+      </div>
+      <div id="slide-5">
+        <img src="/images/03.jpg">
       </div>
     </div>
   </div>
-</body>
+</div>
 
 <br>
 
