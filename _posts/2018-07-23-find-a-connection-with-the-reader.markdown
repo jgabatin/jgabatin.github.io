@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 .slider {
   width: 500px;
   height: 300px;
-  background-color: white;
+  background-color: red;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .image-container {
   width: 1500px;
-  background-color: white;
+  background-color: black;
   height: 300px;
   clear: both;
   position: relative;
@@ -52,8 +52,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   left: -1000px;
 }
 .buttons {
-      position: relative;
-      top: -20px;
+  position: relative;
+  top: 20px;
 }
 .buttons a {
   display: inline-block;
@@ -88,8 +88,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
     </div>
   </div>
 </body>
-
-<br></br>
 
 <h1 style="color:#3e6913;">Header</h1>
 
