@@ -47,7 +47,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .slides > div {
   scroll-snap-align: start;
-  flex-shrink: 0;
   width: 500px;
   height: 500px;
   margin-right: 5px;
