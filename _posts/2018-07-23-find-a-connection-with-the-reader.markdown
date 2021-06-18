@@ -36,7 +36,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   -webkit-overflow-scrolling: touch;
 }
 .slides::-webkit-scrollbar {
-  overflow-y: hidden;
   width: 10px;
   height: 10px;
 }
@@ -108,27 +107,29 @@ img {
 }
 </style>
 
-<div class="center">
-  <div class="slider">
-    <div class="slides">
-      <div id="slide-1">
-        <img src="/images/03.jpg"></img>
-      </div>
-      <div id="slide-2">
-        <img src="/images/04.jpg"></img>
-      </div>
-      <div id="slide-3">
-        <img src="/images/10.jpg"></img>
-      </div>
-      <div id="slide-4">
-        <img src="/images/04.jpg"></img>
-      </div>
-      <div id="slide-5">
-        <img src="/images/10.jpg"></img>
+<body style="overflow-y:hidden";>
+  <div class="center">
+    <div class="slider">
+      <div class="slides">
+        <div id="slide-1">
+          <img src="/images/03.jpg"></img>
+        </div>
+        <div id="slide-2">
+          <img src="/images/04.jpg"></img>
+        </div>
+        <div id="slide-3">
+          <img src="/images/10.jpg"></img>
+        </div>
+        <div id="slide-4">
+          <img src="/images/04.jpg"></img>
+        </div>
+        <div id="slide-5">
+          <img src="/images/10.jpg"></img>
+        </div>
       </div>
     </div>
   </div>
-</div>
+</body>
 
 <br>
 
