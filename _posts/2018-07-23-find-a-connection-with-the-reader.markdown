@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   color: white;
 }
 img {
-  object-fit: cover;
+  object-fit: contain;
   position: absolute;
   top: 0;
   left: 0;
@@ -107,7 +107,7 @@ img {
 }
 </style>
 
-<body style="overflow-y:hidden";>
+<body style="overflow-y:hidden">
   <div class="center">
     <div class="slider">
       <div class="slides">
