@@ -48,8 +48,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 1;
-  width: 700px;
-  height: 700px;
+  width: 500px;
+  height: 500px;
   margin-right: 5px;
   border-radius: 10px;
   background: white;
@@ -103,10 +103,20 @@ img {
       <div id="slide-3">
         <img src="/images/browse.png">
       </div>
-      <div id="slide-4">
+    </div>
+  </div>
+</div>
+
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
         <img src="/images/browse.png">
       </div>
-      <div id="slide-5">
+      <div id="slide-2">
+        <img src="/images/browse.png">
+      </div>
+      <div id="slide-3">
         <img src="/images/browse.png">
       </div>
     </div>
