@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   justify-content: center;
 }
 .slider {
-  width: 1000px;
+  width: 1500px;
   text-align: center;
   overflow: hidden;
 }
@@ -50,8 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 300px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
   margin-right: 50px;
   border-radius: 10px;
   background: white;
