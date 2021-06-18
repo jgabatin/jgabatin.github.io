@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   height: 300px;
   margin-right: 50px;
   border-radius: 10px;
-  background: #eee;
+  background: white;
   transform-origin: center center;
   transform: scale(1);
   transition: transform 0.5s;
@@ -64,20 +64,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   align-items: center;
   font-size: 100px;
 }
-.author-info {
-  background: white;
-  color: white;
-  padding: 0.75rem;
-  text-align: center;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  margin: 0;
-}
-.author-info a {
-  color: white;
-}
 img {
   object-fit: contain;
   position: absolute;
@@ -86,7 +72,6 @@ img {
   width: 100%;
   height: 100%;
 }
-
 .slider > a {
   display: inline-flex;
   width: 1.5rem;
