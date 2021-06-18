@@ -16,6 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 
 <style>
 .slider {
+  justify-content: center;
   width: 300px;
   height: 300px;
   display: flex;
@@ -25,15 +26,44 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   scroll-snap-type: x mandatory; 
   scroll-behavior: smooth;
 }
-.slide {
+.slides {
   width: 300px;
   flex-shrink: 0;
   height: 100%;
 }
+.slides::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+.slides::-webkit-scrollbar-thumb {
+  background: black;
+  border-radius: 10px;
+}
+.slides::-webkit-scrollbar-track {
+  background: transparent;
+}
+.slides > div {
+  scroll-snap-align: start;
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  margin-right: 50px;
+  border-radius: 10px;
+  background: #eee;
+  transform-origin: center center;
+  transform: scale(1);
+  transition: transform 0.5s;
+  position: relative;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
 </style>
 
 <div class="slider">
-  <div class="slide" id="slide-1">1</div>
-  <div class="slide" id="slide-2">2</div>
-  <div class="slide" id="slide-3">3</div>
+  <div class="slides" id="slide-1">1</div>
+  <div class="slides" id="slide-2">2</div>
+  <div class="slides" id="slide-3">3</div>
 </div>
