@@ -92,25 +92,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 </style>
 
 <!-- Slideshow container -->
-<slideshow-container>
+<div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
-  <mySlides fade>
-    <img src="photo-about.png" style="width:100%">
-  <mySlides fade>
+  <div class="mySlides fade">
+    <img src="10.jpg" style="width:50%">
+  </div>
 
-  <mySlides fade>
-    <img src="photo-about.png" style="width:100%">
-  <mySlides fade>
+  <div class="mySlides fade">
+    <img src="04.jpg" style="width:50%">
+  </div>
 
-  <mySlides fade>
-    <img src="photo-about.png" style="width:100%">
-  <mySlides fade>
+  <div class="mySlides fade">
+    <img src="03.jpg" style="width:50%">
+  </div>
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</slideshow-container>
+</div>
 <br>
 
 <!-- The dots/circles -->
