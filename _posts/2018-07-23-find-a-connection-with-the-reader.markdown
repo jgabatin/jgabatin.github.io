@@ -48,8 +48,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 750px;
-  height: 750px;
+  width: 600px;
+  height: 600px;
   margin-right: 50px;
   border-radius: 10px;
   background: white;
