@@ -53,10 +53,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 }
 .buttons {
   position: relative;
-  padding: 25px;
 }
 .buttons a {
   display: inline-block;
+  padding: 25px;
   height: 15px;
   width: 15px;
   border-radius: 50px;
