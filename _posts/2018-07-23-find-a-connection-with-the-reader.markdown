@@ -16,7 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 
 <style>
 .center {
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .slider {
   width: 500px;
