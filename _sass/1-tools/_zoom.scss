@@ -20,10 +20,3 @@
        -o-transition:      opacity 300ms;
           transition:      opacity 300ms;
 }
-.zoom-overlay-open .zoom-overlay {
-  opacity: 1;
-}
-.zoom-overlay-open,
-.zoom-overlay-transitioning {
-  cursor: default;
-}
