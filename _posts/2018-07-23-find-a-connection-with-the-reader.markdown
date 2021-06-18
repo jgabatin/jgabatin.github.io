@@ -66,14 +66,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 
 <body>
   <div class="slider">
-    <span id="slide-1"></span>
-    <span id="slide-2"></span>
-    <span id="slide-3"></span>
-    <div class="image-container">
-      <img src="/images/03.jpg" class="slide" width="100" height="100" />
-      <img src="/images/03.jpg" class="slide" width="100" height="100" />
-      <img src="/images/03.jpg" class="slide" width="100" height="100" />
-    </div>
+    <span id="slide-1">
+      <div class="image-container">
+        <img src="/images/03.jpg" class="slide" width="100" height="100" />
+      </div>
+    </span>
+    <span id="slide-2">
+      <div class="image-container">
+        <img src="/images/03.jpg" class="slide" width="100" height="100" />
+      </div>
+    </span>
+    <span id="slide-3">
+      <div class="image-container">
+        <img src="/images/03.jpg" class="slide" width="100" height="100" />
+      </div>
+    </span>
+
     <div class="buttons">
       <a href="#slide-1"></a>
       <a href="#slide-2"></a>
