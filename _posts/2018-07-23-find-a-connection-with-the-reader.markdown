@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   align-items: center;
   font-size: 100px;
 }
-img {
+img.slideimg {
   object-fit: contain;
   position: absolute;
   top: 0;
@@ -101,10 +101,10 @@ img {
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
     </div>
   </div>
@@ -114,13 +114,13 @@ img {
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
       <div id="slide-3">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
     </div>
   </div>
@@ -130,13 +130,13 @@ img {
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
       <div id="slide-3">
-        <img src="/images/browse.png">
+        <img src="/images/browse.png" class="slideimg">
       </div>
     </div>
   </div>
