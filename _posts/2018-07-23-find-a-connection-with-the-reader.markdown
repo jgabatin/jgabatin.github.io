@@ -97,7 +97,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
 </div>
 
 <div class="center">
-  <img src="/images/lentl-maarket.jpg" width="50%" height="50%">
+  <img src="/images/lentl-market.jpg" width="50%" height="50%">
 </div>
 
 <h1 style="color:#3e6913;">Header</h1>
