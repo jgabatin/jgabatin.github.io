@@ -84,15 +84,18 @@ img.slideimg {
 
 <h1 style="color:#3e6913;">Overview</h1>
 
-My Role: Market Research, UI/UX Design, Front-End Development
-Team: Ideator
-Time: 2 Weeks
-Tools: React Native, Expo
+My Role: Market Research, UI/UX Design, Front-End Development   
+
+Team: Ideator  
+
+Time: 2 Weeks 
+
+Tools: React Native, Expo  
 
 <h1 style="color:#3e6913;">Project Details</h1>
 
-Lentl is a P2P luxury rental service that allows users to rent and try premium apparel across an assortment of labels without having to spend hundreds in retail price. Users on the platform have the ability to rent (Lentee) or list their own items for rent on the marketplace (Lenter).
-<br>
+Lentl is a P2P luxury rental service that allows users to rent and try premium apparel across an assortment of labels without having to spend hundreds in retail price. Users on the platform have the ability to rent (Lentee) or list their own items for rent on the marketplace (Lenter).  
+
 Though fashion trends are always changing, the rise of ‘fast fashion’ has made purchasing designer apparel a financially questionable choice for the average young adult looking to splurge on luxury items. A majority of these individuals may be uninterested in high fashion as a whole, but the popularity of social media influencers has inevitably caused an increase in desire for brands like Gucci, Dior, etc. 
 
 <h1 style="color:#3e6913;">Challenge</h1>
@@ -115,8 +118,8 @@ The ideator and I collaborated extensively in researching the upscale fashion sp
 
 <h1 style="color:#3e6913;">User Research Findings</h1>
 
-As someone who is relatively familiar with the luxury goods industry based on past research, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.
-<br>
+As someone who is relatively familiar with the luxury goods industry based on past research, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.   
+
 I drafted two personas based on the details gathered from the interviews and two different scenarios that would prompt a user to acquire or lend their apparel
 
 <div class="center">
