@@ -82,15 +82,28 @@ img.slideimg {
 }
 </style>
 
-<h1 style="color:#3e6913;">Background</h1>
+<h1 style="color:#3e6913;">Overview</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum et lacus bibendum, eget sollicitudin eros rhoncus. Morbi dignissim blandit urna, eget convallis purus accumsan sit amet. Vestibulum ipsum tellus, luctus at laoreet et, rhoncus ut sem. Suspendisse quam dolor, gravida nec mattis a, pretium nec mauris. Sed eget arcu augue. Vestibulum faucibus quis purus id fringilla. Duis ac ornare mi. Proin facilisis non lectus a tempor. Quisque sodales id risus sed porttitor. Aliquam sollicitudin erat egestas quam blandit pharetra. Maecenas velit diam, pretium vel tempor rhoncus, molestie eu dolor. Etiam ipsum mauris, dapibus vitae pellentesque vel, venenatis porttitor odio. Praesent nec dolor quis urna egestas commodo et sed felis. Cras aliquam, libero eget posuere consectetur, dui augue ornare neque, sit amet bibendum arcu eros a enim. Sed mauris ante, eleifend rutrum varius et, vulputate eu nunc.
+My Role: Market Research, UI/UX Design, Front-End Development
+Team: Ideator
+Time: 2 Weeks
+Tools: React Native, Expo
 
-Vivamus tristique, ex non consequat condimentum, tellus tellus cursus nulla, in sollicitudin nisi sem ut odio. Cras congue neque nec neque pretium vestibulum nec sit amet justo. Vivamus lacinia interdum nunc nec sodales. Aenean ultrices cursus ex, non ultricies nisi finibus aliquet. Aliquam ac lorem enim. Etiam vel augue bibendum, tincidunt felis vel, egestas tortor. Duis eleifend orci nec dolor gravida eleifend quis vitae eros. Cras vel sem a nunc vehicula porta. Nulla felis mauris, tincidunt nec justo eu, luctus tincidunt ex. Praesent ut porttitor eros, sit amet luctus nisl. In fringilla pharetra ipsum, vitae porttitor tortor. Nulla maximus eros dolor, sit amet aliquet lorem consectetur vitae.
+<h1 style="color:#3e6913;">Project Details</h1>
 
-<h1 style="color:#3e6913;">Header</h1>
+Lentl is a P2P luxury rental service that allows users to rent and try premium apparel across an assortment of labels without having to spend hundreds in retail price. Users on the platform have the ability to rent (Lentee) or list their own items for rent on the marketplace (Lenter).
+<br>
+Though fashion trends are always changing, the rise of ‘fast fashion’ has made purchasing designer apparel a financially questionable choice for the average young adult looking to splurge on luxury items. A majority of these individuals may be uninterested in high fashion as a whole, but the popularity of social media influencers has inevitably caused an increase in desire for brands like Gucci, Dior, etc. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum et lacus bibendum, eget sollicitudin eros rhoncus. Morbi dignissim blandit urna, eget convallis purus accumsan sit amet. Vestibulum ipsum tellus, luctus at laoreet et, rhoncus ut sem. Suspendisse quam dolor, gravida nec mattis a, pretium nec mauris. Sed eget arcu augue. Vestibulum faucibus quis purus id fringilla. Duis ac ornare mi. Proin facilisis non lectus a tempor. Quisque sodales id risus sed porttitor. Aliquam sollicitudin erat egestas quam blandit pharetra. Maecenas velit diam, pretium vel tempor rhoncus, molestie eu dolor. Etiam ipsum mauris, dapibus vitae pellentesque vel, venenatis porttitor odio. Praesent nec dolor quis urna egestas commodo et sed felis. Cras aliquam, libero eget posuere consectetur, dui augue ornare neque, sit amet bibendum arcu eros a enim. Sed mauris ante, eleifend rutrum varius et, vulputate eu nunc. Cras aliquam, libero sed.
+<h1 style="color:#3e6913;">Challenge</h1>
+
+While there are already existing clothing rental platforms, a quick Google search shows that most, if not all of these marketplaces are catered towards a broad market revolving around casualwear or women’s dresses. Further, there are currently no mobile apps that are dedicated to providing a peer-to-peer rental service for both men and women within the high fashion domain. 
+
+<h1 style="color:#3e6913;">Solution</h1>
+
+The ideator and I collaborated extensively in researching the upscale fashion space, interviewing select peers, and developing a product roadmap. Based on our findings and after getting a rough estimate of our SOM, we decided to hone in on affordability and accessibility as the service’s key value proposition. Given these factors, I designed and developed the user-facing side of the app to optimize for usability and adaptability.
+
+<h1 style="color:#3e6913;">Market Landscape</h1>
 
 <div class="center">
   <img src="/images/lentl-comp.jpg" width="65%" height="65%">
@@ -100,9 +113,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum 
   <img src="/images/lentl-market.jpg" width="65%" height="65%">
 </div>
 
-<h1 style="color:#3e6913;">Header</h1>
+<h1 style="color:#3e6913;">User Research Findings</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum et lacus bibendum, eget sollicitudin eros rhoncus. Morbi dignissim blandit urna, eget convallis purus accumsan sit amet. Vestibulum ipsum tellus, luctus at laoreet et, rhoncus ut sem. Suspendisse quam dolor, gravida nec mattis a, pretium nec mauris. Sed eget arcu augue. Vestibulum faucibus quis purus id fringilla. Duis ac ornare mi. Proin facilisis non lectus a tempor. Quisque sodales id risus sed porttitor. Aliquam sollicitudin erat egestas quam blandit pharetra. Maecenas velit diam, pretium vel tempor rhoncus, molestie eu dolor. Etiam ipsum mauris, dapibus vitae pellentesque vel, venenatis porttitor odio. Praesent nec dolor quis urna egestas commodo et sed felis. Cras aliquam, libero eget posuere consectetur, dui augue ornare neque, sit amet bibendum arcu eros a enim. Sed mauris ante, eleifend rutrum varius et, vulputate eu nunc.
+As someone who is relatively familiar with the luxury goods industry based on past research, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.
+<br>
+I drafted two personas based on the details gathered from the interviews and two different scenarios that would prompt a user to acquire or lend their apparel
 
 <div class="center">
   <div class="slider">
