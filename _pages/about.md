@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 image: photo-about.jpg
 ---
+<h3 style="color:#c08552;">Hello!</h3>
 
 I'm currently a senior at the University of California, Davis studying **Computer Science** and **Technology Management**. While I enjoy (most) of the problem-solving aspects of software engineering, my experience within the fields of design, business, and tech over the span of my academic journey has motivated me to pursue a role in product.
 
