@@ -85,12 +85,9 @@ img.slideimg {
 <h1 style="color:#3e6913;">Overview</h1>
 
 <b>My Role:</b> Market Research, UI/UX Design, Front-End Development   
-
-<b>Team:</b> Ideator  
-
-<b>Time:</b> 2 Weeks 
-
-<b>Tools:</b> React Native, Expo  
+<b>Team:</b> Ideator   
+<b>Time:</b> 2 Weeks  
+<b>Tools:</b> React Native, Expo   
 
 <h1 style="color:#3e6913;">Project Details</h1>
 
