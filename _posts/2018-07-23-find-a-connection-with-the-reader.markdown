@@ -167,10 +167,13 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/splash.jpg" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/login.jpg" class="slideimg">
+      </div>
+      <div id="slide-3">
+        <img src="/images/profile.jpg" class="slideimg">
       </div>
     </div>
   </div>
@@ -180,13 +183,13 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/home1.jpg" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/home2.jpg" class="slideimg">
       </div>
       <div id="slide-3">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/browse.jpg" class="slideimg">
       </div>
     </div>
   </div>
@@ -196,13 +199,13 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/product.jpg" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/orders.jpg" class="slideimg">
       </div>
       <div id="slide-3">
-        <img src="/images/browse.png" class="slideimg">
+        <img src="/images/favorites.jpg" class="slideimg">
       </div>
     </div>
   </div>
