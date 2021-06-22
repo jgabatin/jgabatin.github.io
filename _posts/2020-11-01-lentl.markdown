@@ -213,6 +213,10 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
 
 <br>
 
+In terms of aesthetic, I thought it would be fun to incorporate a plant-based theme that revolves around the lentil seed both in shape and color. This is reflected in the logo, the contrasting green tones, as well as the rounded containers and buttons.
+
+Other design choices were made based on basic, yet fundamental UX heuristics. The minimalist layout highlighted screen content, while also eliminating all forms of visual clutter. Legible, yet recognizable serif typefaces and icons reinforces usability and makes navigation easier for the user. Overall, while the Hi-Fi model is certainly missing other elements (search filters, additional content to reduce whitespace, etc.), I believe that it meets the objective of directing the user’s focus to the apparel without sacrificing accessibility and convenience.
+
 <h1 style="color:#3e6913;">Reflection</h1>
 
 This app began as a startup idea, but eventually became a product development exercise for the ideator and I. We realized that starting a high-end clothing rental service during a global pandemic is equivalent to trying to sell energy drinks at an insomnia treatment facility; it’s not a viable business in the current environment. Nonetheless, this project was invaluable to me in that I was able to apply my knowledge of design, market research, and programming into building a product. I would have certainly conducted user research within a larger pool, immersed myself in the 'design thinking' process, and reviewed mobile app architecture best practices in the absence of any external circumstances.
