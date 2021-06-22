@@ -1,0 +1,218 @@
+---
+layout: post
+title:  Lentl
+date:   2020-11-01 00:00:00 +0000
+image:  lentl-main.png
+tags:   UI/UX
+---
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+}
+.slider {
+  width: 1200px;
+  text-align: center;
+  overflow: hidden;
+}
+.slides {
+  display: flex;
+  
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+.slides::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+.slides::-webkit-scrollbar-thumb {
+  background: #bbbbbb;
+  border-radius: 10px;
+}
+.slides::-webkit-scrollbar-track {
+  background: transparent;
+}
+.slides > div {
+  scroll-snap-align: start;
+  flex-shrink: 1;
+  width: 500px;
+  height: 500px;
+  margin-right: 5px;
+  border-radius: 10px;
+  background: white;
+  transform-origin: center center;
+  transform: scale(1);
+  transition: transform 0.5s;
+  position: relative;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+img.slideimg {
+  object-fit: contain;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 95%;
+  height: 95%;
+}
+.slider > a {
+  display: inline-flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: white;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin: 0 0 0.5rem 0;
+  position: relative;
+}
+.slider > a:active {
+  top: 1px;
+}
+.slider > a:focus {
+  background: #000;
+}
+</style>
+
+<h1 style="color:#3e6913;">Project Details</h1>
+
+Lentl is a P2P luxury rental service that allows users to rent and try premium apparel across an assortment of labels without having to spend hundreds in retail price. Users on the platform have the ability to rent (Lentee) or list their own items for rent on the marketplace (Lenter).  
+
+Though fashion trends are always changing, the rise of ‘fast fashion’ has made purchasing designer apparel a financially questionable choice for the average young adult looking to splurge on luxury items. A majority of these individuals may be uninterested in high fashion as a whole, but the popularity of social media influencers has inevitably caused an increase in desire for brands like Gucci, Dior, etc.   
+
+<b style="color:#3e6913;">ROLE:</b> Market Research, UI/UX Design, Front-End Development   
+<b style="color:#3e6913;">TEAM:</b> Ideator   
+<b style="color:#3e6913;">TIME:</b> 2 Weeks  
+<b style="color:#3e6913;">TOOLS:</b> React Native, Expo   
+
+<h1 style="color:#3e6913;">Challenge</h1>
+
+While there are already existing clothing rental platforms, a quick Google search shows that most, if not all of these marketplaces are catered towards a broad market revolving around casualwear or women’s dresses. Further, there are currently no mobile apps that are dedicated to providing a peer-to-peer rental service for both men and women within the high fashion domain. 
+
+<h1 style="color:#3e6913;">Solution</h1>
+
+The ideator and I collaborated extensively in researching the upscale fashion space, interviewing select peers, and developing a product roadmap. Based on our findings and after getting a rough estimate of our SOM, we decided to hone in on affordability and accessibility as the service’s key value proposition. Given these factors, I designed and developed the user-facing side of the app to optimize for usability and adaptability.
+
+<h1 style="color:#3e6913;">Market Landscape</h1>
+
+<div class="center">
+  <img src="/images/lentl-comp.jpg" width="65%" height="65%">
+</div>
+
+<div class="center">
+  <img src="/images/lentl-market.jpg" width="65%" height="65%">
+</div>
+
+<h1 style="color:#3e6913;">User Research Findings</h1>
+
+As someone who is relatively familiar with the luxury goods industry based on past research, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.   
+
+I drafted two personas based on the details gathered from the interviews and two different scenarios that would prompt a user to acquire or lend their apparel.
+
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
+        <img src="/images/lentl-persona1.jpg" class="slideimg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/lentl-persona2.jpg" class="slideimg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<h1 style="color:#3e6913;">Product Road Map</h1>
+
+Gathering our findings, the ideator and I worked together to develop the product road map and build a low-fidelity prototype. Since we were working on this project during the peak of the pandemic, we decided that clothing could not be a current product offering since we anticipated future concerns regarding safety. For that reason, we focused solely on designer belts since they were the most common accessory that a Lenter would possibly own. For the sake of time, the prototype also did not explore user flow from the Lenter’s perspective.
+
+<div class="center">
+  <img src="/images/lentl-map.jpg" width="90%" height="90%">
+</div>
+
+<h1 style="color:#3e6913;">Flow & Lo-Fi Prototyping</h1>
+
+The user personas and product roadmap allowed us to finalize the primary user flow for Lentees.
+
+<div class="center">
+  <img src="/images/lentl-flow.jpg" width="85%" height="85%">
+</div>
+
+Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app's screen layout, and a glimpse of some product features.
+
+<div class="center">
+  <img src="/images/lentl-prototype.jpg" width="90%" height="90%">
+</div>
+
+We could not physically offer individuals a chance to test out the prototype due to the pandemic. However, my collaborator was able to get feedback from housemates (ages 19-20) and the key findings were as follows:  
+
+* too much information per screen; possibly incorporate a drop-down menu or separate certain components into a separate screen
+* layout was similar to most marketplace apps they have used, which made it easier to navigate
+
+<h1 style="color:#3e6913;">Hi-Fi Prototyping</h1>
+
+Eager to get the user-facing side of the product ready to hand off to back-end developers, I took the risk of skipping Figma and jumping straight into React Native (a framework I have never programmed in before, smart move right?). After hours of refining small details and establishing the branding on my own, I was able to develop the outer ‘pod’ of Lentl. 
+
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
+        <img src="/images/splash.jpg" class="slideimg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/login.jpg" class="slideimg">
+      </div>
+      <div id="slide-3">
+        <img src="/images/profile.jpg" class="slideimg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
+        <img src="/images/home1.jpg" class="slideimg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/home2.jpg" class="slideimg">
+      </div>
+      <div id="slide-3">
+        <img src="/images/browse.jpg" class="slideimg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
+        <img src="/images/favorites.jpg" class="slideimg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/product.jpg" class="slideimg">
+      </div>
+      <div id="slide-3">
+        <img src="/images/orders.jpg" class="slideimg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<h1 style="color:#3e6913;">Reflection</h1>
+
+This app started out as a startup idea, but eventually became a product development exercise for the ideator and I. We realized that starting a high-end clothing rental service during a global pandemic is equivalent to trying to sell energy drinks at an insomnia treatment facility; it’s not a business in the current environment. Nonetheless, this project was invaluable to me in that I was able to apply my understanding of design, market research, and programming into building a product. I would have definitely taken more time to conduct user research, immersed myself in the ‘design thinking’ process, and taught myself best practices for mobile app architecture had there not been any external circumstances.
