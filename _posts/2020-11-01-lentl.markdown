@@ -104,7 +104,7 @@ The ideator and I collaborated extensively in researching the upscale fashion sp
 <h1 style="color:#3e6913;">Market Landscape</h1>
 
 <div class="center">
-  <img src="/images/lentl-comp.jpg" width="65%" height="65%">
+  <img src="/images/lentl-competitors.jpg" width="65%" height="65%">
 </div>
 
 <div class="center">
@@ -121,10 +121,10 @@ I drafted two user personas based on the details gathered from the interviews, i
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/lentl-persona1.jpg" class="slideimg">
+        <img src="/images/lentl-joe.jpg" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/lentl-persona2.jpg" class="slideimg">
+        <img src="/images/lentl-sam.jpg" class="slideimg">
       </div>
     </div>
   </div>
