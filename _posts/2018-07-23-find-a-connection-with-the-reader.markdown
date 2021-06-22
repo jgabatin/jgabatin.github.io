@@ -118,7 +118,7 @@ The ideator and I collaborated extensively in researching the upscale fashion sp
 
 As someone who is relatively familiar with the luxury goods industry based on past research, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.   
 
-I drafted two personas based on the details gathered from the interviews and two different scenarios that would prompt a user to acquire or lend their apparel
+I drafted two personas based on the details gathered from the interviews and two different scenarios that would prompt a user to acquire or lend their apparel.
 
 <div class="center">
   <div class="slider">
@@ -133,9 +133,19 @@ I drafted two personas based on the details gathered from the interviews and two
   </div>
 </div>
 
+<br>
+
 <h1 style="color:#3e6913;">Product Road Map</h1>
 
 Gathering our findings, the ideator and I worked together to develop the product road map and build a low-fidelity prototype. Since we were working on this project during the peak of the pandemic, we decided that clothing could not be a current product offering since we anticipated future concerns regarding safety. For that reason, we focused solely on designer belts since they were the most common accessory that a Lenter would possibly own. For the sake of time, the prototype also did not explore user flow from the Lenter’s perspective.
+
+<div class="center">
+  <img src="/images/lentl-map.jpg" width="65%" height="65%">
+</div>
+
+<h1 style="color:#3e6913;">Flow & Lo-Fi Prototyping</h1>
+
+The user personas and product roadmap allowed us to finalize the primary user flow for Lentees.
 
 <div class="center">
   <div class="slider">
