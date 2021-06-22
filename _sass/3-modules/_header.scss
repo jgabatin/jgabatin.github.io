@@ -128,7 +128,7 @@
 .nav-buttons {
   position: absolute;
   top: 50%;
-  right: 0;
+  left: 0;
   transform: translateY(-50%);
   font-size: 21px;
   
@@ -142,7 +142,7 @@
   
   .nav__icon-menu {
     display: none;
-    margin-right: 10px;
+    margin-left: 10px;
     &:hover {
       color: $black;
     }
