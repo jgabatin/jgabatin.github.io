@@ -199,13 +199,13 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/product.jpg" class="slideimg">
+        <img src="/images/favorites.jpg" class="slideimg">
       </div>
       <div id="slide-2">
-        <img src="/images/orders.jpg" class="slideimg">
+        <img src="/images/product.jpg" class="slideimg">
       </div>
       <div id="slide-3">
-        <img src="/images/favorites.jpg" class="slideimg">
+        <img src="/images/orders.jpg" class="slideimg">
       </div>
     </div>
   </div>
