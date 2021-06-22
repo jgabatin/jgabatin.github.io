@@ -124,6 +124,23 @@ I drafted two personas based on the details gathered from the interviews and two
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
+        <img src="/images/lentl-persona1.jpg" class="slideimg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/lentl-persona2.jpg" class="slideimg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1 style="color:#3e6913;">Product Road Map</h1>
+
+Gathering our findings, the ideator and I worked together to develop the product road map and build a low-fidelity prototype. Since we were working on this project during the peak of the pandemic, we decided that clothing could not be a current product offering since we anticipated future concerns regarding safety. For that reason, we focused solely on designer belts since they were the most common accessory that a Lenter would possibly own. For the sake of time, the prototype also did not explore user flow from the Lenter’s perspective.
+
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
         <img src="/images/browse.png" class="slideimg">
       </div>
       <div id="slide-2">
