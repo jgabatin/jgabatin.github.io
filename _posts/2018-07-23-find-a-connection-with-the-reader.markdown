@@ -89,11 +89,8 @@ Lentl is a P2P luxury rental service that allows users to rent and try premium a
 Though fashion trends are always changing, the rise of ‘fast fashion’ has made purchasing designer apparel a financially questionable choice for the average young adult looking to splurge on luxury items. A majority of these individuals may be uninterested in high fashion as a whole, but the popularity of social media influencers has inevitably caused an increase in desire for brands like Gucci, Dior, etc.   
 
 <b style="color:#3e6913;">MY ROLE:</b> Market Research, UI/UX Design, Front-End Development 
-
 <b style="color:#3e6913;">TEAM:</b> Ideator   
-
 <b style="color:#3e6913;">TIME:</b> 2 Weeks  
-
 <b style="color:#3e6913;">TOOLS:</b> React Native, Expo   
 
 <h1 style="color:#3e6913;">Challenge</h1>
@@ -151,7 +148,7 @@ The user personas and product roadmap allowed us to finalize the primary user fl
   <img src="/images/lentl-flow.jpg" width="85%" height="85%">
 </div>
 
-Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app navigation, and product features.
+Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app's screen layout, and a glimpse of some product features.
 
 <div class="center">
   <img src="/images/lentl-prototype.jpg" width="90%" height="90%">
