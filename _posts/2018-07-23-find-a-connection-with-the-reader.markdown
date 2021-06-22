@@ -88,7 +88,7 @@ Lentl is a P2P luxury rental service that allows users to rent and try premium a
 
 Though fashion trends are always changing, the rise of ‘fast fashion’ has made purchasing designer apparel a financially questionable choice for the average young adult looking to splurge on luxury items. A majority of these individuals may be uninterested in high fashion as a whole, but the popularity of social media influencers has inevitably caused an increase in desire for brands like Gucci, Dior, etc.   
 
-<b style="color:#3e6913;">MY ROLE:</b> Market Research, UI/UX Design, Front-End Development 
+<b style="color:#3e6913;">MY ROLE:</b> Market Research, UI/UX Design, Front-End Development   
 <b style="color:#3e6913;">TEAM:</b> Ideator   
 <b style="color:#3e6913;">TIME:</b> 2 Weeks  
 <b style="color:#3e6913;">TOOLS:</b> React Native, Expo   
