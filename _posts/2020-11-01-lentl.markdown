@@ -157,7 +157,7 @@ Getting a better sense of the navigation, my collaborator drew some sketches to 
 We could not physically offer individuals a chance to test out the prototype due to the pandemic. However, my collaborator was able to get feedback from housemates (ages 19-20) and the key findings were as follows:  
 
 * too much information per screen; possibly incorporate a drop-down menu or separate certain components into a separate screen
-* layout was similar to most marketplace apps they have used, which made it easier to navigate
+* layout was similar to most marketplace apps they have used, which made it easy to navigate
 
 <h1 style="color:#3e6913;">Hi-Fi Prototyping</h1>
 
@@ -215,4 +215,4 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
 
 <h1 style="color:#3e6913;">Reflection</h1>
 
-This app started out as a startup idea, but eventually became a product development exercise for the ideator and I. We realized that starting a high-end clothing rental service during a global pandemic is equivalent to trying to sell energy drinks at an insomnia treatment facility; it’s not a business in the current environment. Nonetheless, this project was invaluable to me in that I was able to apply my understanding of design, market research, and programming into building a product. I would have definitely taken more time to conduct user research, immersed myself in the ‘design thinking’ process, and taught myself best practices for mobile app architecture had there not been any external circumstances.
+This app began as a startup idea, but eventually became a product development exercise for the ideator and I. We realized that starting a high-end clothing rental service during a global pandemic is equivalent to trying to sell energy drinks at an insomnia treatment facility; it’s not a viable business in the current environment. Nonetheless, this project was invaluable to me in that I was able to apply my knowledge of design, market research, and programming into building a product. I would have certainly conducted user research within a larger pool, immersed myself in the 'design thinking' process, and reviewed mobile app architecture best practices in the absence of any external circumstances.
