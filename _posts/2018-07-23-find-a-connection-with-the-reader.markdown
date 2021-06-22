@@ -140,12 +140,31 @@ I drafted two personas based on the details gathered from the interviews and two
 Gathering our findings, the ideator and I worked together to develop the product road map and build a low-fidelity prototype. Since we were working on this project during the peak of the pandemic, we decided that clothing could not be a current product offering since we anticipated future concerns regarding safety. For that reason, we focused solely on designer belts since they were the most common accessory that a Lenter would possibly own. For the sake of time, the prototype also did not explore user flow from the Lenter’s perspective.
 
 <div class="center">
-  <img src="/images/lentl-map.jpg" width="65%" height="65%">
+  <img src="/images/lentl-map.jpg" width="75%" height="75%">
 </div>
 
 <h1 style="color:#3e6913;">Flow & Lo-Fi Prototyping</h1>
 
 The user personas and product roadmap allowed us to finalize the primary user flow for Lentees.
+
+<div class="center">
+  <img src="/images/lentl-flow.jpg" width="75%" height="75%">
+</div>
+
+Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app navigation, and product features.
+
+<div class="center">
+  <img src="/images/lentl-prototype.jpg" width="75%" height="75%">
+</div>
+
+We could not physically offer individuals a chance to test out the prototype due to the pandemic. However, my collaborator was able to get feedback from housemates (ages 19-20) and the key findings were as follows:  
+
+* too much information per screen; possibly incorporate a drop-down menu or separate certain components into a separate screen
+* layout was similar to most marketplace apps they have used, which made it easier to navigate
+
+<h1 style="color:#3e6913;">Hi-Fi Prototyping</h1>
+
+Eager to get the user-facing side of the product ready to hand off to back-end developers, I took the risk of skipping Figma and jumping straight into React Native (a framework I have never programmed in before, smart move right?). After continuous aesthetic refinement and establishing the branding on my own, I was able to develop the outer ‘pod’ of Lentl. 
 
 <div class="center">
   <div class="slider">
