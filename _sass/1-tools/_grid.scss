@@ -119,13 +119,13 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
     @for $i from 0 through $columns {
       .push-m-#{$i} {
-        margin-right: percentage( $i / $columns );
+        margin-left: percentage( $i / $columns );
       }
     }
 
     @for $i from 0 through $columns {
       .pull-m-#{$i} {
-        margin-left: percentage( $i / $columns );
+        margin-right: percentage( $i / $columns );
       }
     }
   }
