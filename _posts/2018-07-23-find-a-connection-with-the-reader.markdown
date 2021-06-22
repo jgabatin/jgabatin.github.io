@@ -213,7 +213,6 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
 
 <br>
 
-<h1 style="color:#3e6913;">Header</h1>
+<h1 style="color:#3e6913;">Reflection</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat ipsum et lacus bibendum, eget sollicitudin eros rhoncus. Morbi dignissim blandit urna, eget convallis purus accumsan sit amet. Vestibulum ipsum tellus, luctus at laoreet et, rhoncus ut sem. Suspendisse quam dolor, gravida nec mattis a, pretium nec mauris. Sed eget arcu augue. Vestibulum faucibus quis purus id fringilla. Duis ac ornare mi. Proin facilisis non lectus a tempor. Quisque sodales id risus sed porttitor. Aliquam sollicitudin erat egestas quam blandit pharetra. Maecenas velit diam, pretium vel tempor rhoncus, molestie eu dolor. Etiam ipsum mauris, dapibus vitae pellentesque vel, venenatis porttitor odio. Praesent nec dolor quis urna egestas commodo et sed felis. Cras aliquam, libero eget posuere consectetur, dui augue ornare neque, sit amet bibendum arcu eros a enim. Sed mauris ante, eleifend rutrum varius et, vulputate eu nunc.
-
+This app started out as a startup idea, but eventually became a product development exercise for the ideator and I. We realized that starting a high-end clothing rental service during a global pandemic is equivalent to trying to sell energy drinks at an insomnia treatment facility; it’s not a business in the current environment. Nonetheless, this project was invaluable to me in that I was able to apply my understanding of design, market research, and programming into building a product. I would have definitely taken more time to conduct user research, immersed myself in the ‘design thinking’ process, and taught myself best practices for mobile app architecture had there not been any external circumstances.
