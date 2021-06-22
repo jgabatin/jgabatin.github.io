@@ -89,8 +89,11 @@ Lentl is a P2P luxury rental service that allows users to rent and try premium a
 Though fashion trends are always changing, the rise of ‘fast fashion’ has made purchasing designer apparel a financially questionable choice for the average young adult looking to splurge on luxury items. A majority of these individuals may be uninterested in high fashion as a whole, but the popularity of social media influencers has inevitably caused an increase in desire for brands like Gucci, Dior, etc.   
 
 <b style="color:#3e6913;">ROLE:</b> Market Research, UI/UX Design, Front-End Development   
+
 <b style="color:#3e6913;">TEAM:</b> Ideator   
+
 <b style="color:#3e6913;">TIME:</b> 2 Weeks  
+
 <b style="color:#3e6913;">TOOLS:</b> React Native, Expo   
 
 <h1 style="color:#3e6913;">Challenge</h1>
@@ -100,6 +103,8 @@ While there are already existing clothing rental platforms, a quick Google searc
 <h1 style="color:#3e6913;">Solution</h1>
 
 The ideator and I collaborated extensively in researching the upscale fashion space, interviewing select peers, and developing a product roadmap. After estimating our SOM and analyzing our findings, we decided to hone in on affordability and accessibility as the service’s key value proposition. With this in mind, I designed and developed the user-facing side of the app, optimizing not only for usability, but adaptability as well.
+
+***
 
 <h1 style="color:#3e6913;">Market Landscape</h1>
 
@@ -139,6 +144,8 @@ Gathering our findings, the ideator and I worked together to develop the product
 <div class="center">
   <img src="/images/lentl-map.jpg" width="90%" height="90%">
 </div>
+
+***
 
 <h1 style="color:#3e6913;">Flow & Lo-Fi Prototyping</h1>
 
@@ -216,6 +223,8 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
 In terms of aesthetic, I thought it would be fun to incorporate a plant-based theme that revolves around the lentil seed both in shape and color. This is reflected in the logo, the contrasting green tones, as well as the rounded containers and buttons.
 
 Other design choices were made based on basic, yet fundamental UX heuristics. The minimalist layout highlighted screen content, while also eliminating all forms of visual clutter. Legible, yet recognizable serif typefaces and icons reinforces usability and makes navigation easier for the user. Overall, while the Hi-Fi model is certainly missing other elements (search filters, additional content to reduce whitespace, etc.), I believe that it meets the objective of directing the user’s focus to the apparel without sacrificing accessibility and convenience.
+
+***
 
 <h1 style="color:#3e6913;">Reflection</h1>
 
