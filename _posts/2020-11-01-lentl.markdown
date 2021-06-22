@@ -99,7 +99,7 @@ While there are already existing clothing rental platforms, a quick Google searc
 
 <h1 style="color:#3e6913;">Solution</h1>
 
-The ideator and I collaborated extensively in researching the upscale fashion space, interviewing select peers, and developing a product roadmap. Based on our findings and after getting a rough estimate of our SOM, we decided to hone in on affordability and accessibility as the service’s key value proposition. Given these factors, I designed and developed the user-facing side of the app to optimize for usability and adaptability.
+The ideator and I collaborated extensively in researching the upscale fashion space, interviewing select peers, and developing a product roadmap. After estimating our SOM and analyzing our findings, we decided to hone in on affordability and accessibility as the service’s key value proposition. With this in mind, I designed and developed the user-facing side of the app, optimizing not only for usability, but adaptability as well.
 
 <h1 style="color:#3e6913;">Market Landscape</h1>
 
@@ -113,9 +113,9 @@ The ideator and I collaborated extensively in researching the upscale fashion sp
 
 <h1 style="color:#3e6913;">User Research Findings</h1>
 
-As someone who is relatively familiar with the luxury goods industry based on past research, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.   
+As someone who is relatively familiar with the luxury goods industry, but has never actually bought any products due to the financial barrier (does cologne count?), the responses we received from peers were what I had expected. Despite status being the biggest motivator, young adults want to wear unique, higher quality products without paying half a month’s rent for a single item.
 
-I drafted two personas based on the details gathered from the interviews and two different scenarios that would prompt a user to acquire or lend their apparel.
+I drafted two user personas based on the details gathered from the interviews, including two different scenarios that would prompt a user to acquire or lend their apparel.
 
 <div class="center">
   <div class="slider">
@@ -148,7 +148,7 @@ The user personas and product roadmap allowed us to finalize the primary user fl
   <img src="/images/lentl-flow.jpg" width="85%" height="85%">
 </div>
 
-Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app's screen layout, and a glimpse of some product features.
+Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app navigation and the product features we wanted to implement.
 
 <div class="center">
   <img src="/images/lentl-prototype.jpg" width="90%" height="90%">
