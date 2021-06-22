@@ -90,8 +90,8 @@
   @media only screen and (max-width: $desktop) {
     position: fixed;
     top: 0;
-    left: inherit;
-    right: -300px;
+    left: -300px;
+    right: inherit;
     bottom: 0;
     transform: none;
     z-index: 100;
@@ -101,7 +101,7 @@
     transition: right 0.5s cubic-bezier(0.7, 0.4, 0, 1);
     background: $white;
     &.is-open {
-      right: 0;
+      left: 0;
     }
 
     .nav-icon__close {
