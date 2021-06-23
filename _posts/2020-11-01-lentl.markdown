@@ -152,7 +152,7 @@ The user personas and product roadmap allowed us to finalize the primary user fl
   <img src="/images/lentl-flow.jpg" width="85%" height="85%">
 </div>
 
-Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the app navigation and the product features we wanted to implement.
+Getting a better sense of the navigation, my collaborator drew some sketches to give me an idea of the screen layout and the product features we wanted to implement.
 
 <div class="center">
   <img src="/images/lentl-prototype.jpg" width="90%" height="90%">
