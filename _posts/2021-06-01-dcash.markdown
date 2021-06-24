@@ -22,20 +22,24 @@ This project was the last assignment for my operating systems course, ECS 150. T
 
 Detailed documentation and specifications regarding architecture, services, and utilities can all be found <a href="https://github.com/kingst/gunrock_web/tree/main/docs" target="_blank" rel="noopener noreferrer">here</a>.
 
-Here's a short example of a 'deposit' request from the user (assuming they've been authenticated):
+Here's a short example of a 'deposit' request from the user (assuming they're authenticated):
 
 <b>DCash Input</b>
-```
+{% highlight shell %}
 D$> deposit 20.00 4242424242424242 2024 05 242
-```
+{% endhighlight %}
+
+<br>
 
 <b>Gunrock Request</b>
-```
+{% highlight shell %}
 $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposits -d amount=2000 -d stripe_token=tok_visa
-```
+{% endhighlight %}
+
+<br>
 
 <b>Stripe Response</b>
-```
+{% highlight json %}
 {
   "id": "ch_1J5IFZAthIUUdRayS0MjWtzZ",
   "object": "charge",
@@ -48,10 +52,12 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
   "balance_transaction": "txn_1J5ITqAthIUUdRayyerI911F",
   ...
 }
-```
+{% endhighlight %}
+
+<br>
 
 <b>Gunrock Output</b>
-```
+{% highlight json %}
 {
     "balance": 2000,
     "deposits": [
@@ -62,14 +68,18 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
         }
     ]
 }
-```
+{% endhighlight %}
+
+<br>
 
 <b>DCash Output</b>
-```
+{% highlight shell %}
 D$> deposit 20.00 4242424242424242 2024 05 242
 Balance: $20.00
 D$>
-```
+{% endhighlight %}
+
+<br>
 
 <h1 style="color:#022851;">Reflection</h1>
 
