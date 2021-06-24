@@ -50,7 +50,7 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
 }
 {% endhighlight %}
 
-<b>5. Gunrock Output</b>
+<b>4. Gunrock Output</b>
 {% highlight json %}
 {
     "balance": 2000,
