@@ -20,7 +20,56 @@ This project was the last assignment for my operating systems course, ECS 150. T
 
 <h1 style="color:#022851;">Functionality</h1>
 
-Documentation and specifications regarding architecture, services, and utilities can all be found <a href="https://github.com/kingst/gunrock_web/tree/main/docs" target="_blank" rel="noopener noreferrer">here</a>.
+Detailed documentation and specifications regarding architecture, services, and utilities can all be found <a href="https://github.com/kingst/gunrock_web/tree/main/docs" target="_blank" rel="noopener noreferrer">here</a>.
+
+Here's a short example of a 'deposit' request from the user (assuming they've been authenticated):
+
+<b>DCash Input</b>
+```
+D$> deposit 20.00 4242424242424242 2024 05 242
+```
+
+<b>Gunrock Request</b>
+```
+$ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposits -d amount=2000 -d stripe_token=tok_visa
+```
+
+<b>Stripe Response</b>
+```
+{
+  "id": "ch_1J5IFZAthIUUdRayS0MjWtzZ",
+  "object": "charge",
+  "amount": 2000,
+  "amount_captured": 0,
+  "amount_refunded": 0,
+  "application": null,
+  "application_fee": null,
+  "application_fee_amount": null,
+  "balance_transaction": "txn_1J5ITqAthIUUdRayyerI911F",
+  ...
+}
+```
+
+<b>Gunrock Output</b>
+```
+{
+    "balance": 2000,
+    "deposits": [
+        {
+            "to": "john",
+            "amount": 2000,
+            "stripe_charge_id": "ch_1J5IFZAthIUUdRayS0MjWtzZ"
+        }
+    ]
+}
+```
+
+<b>DCash Output</b>
+```
+D$> deposit 20.00 4242424242424242 2024 05 242
+Balance: $20.00
+D$>
+```
 
 <h1 style="color:#022851;">Reflection</h1>
 
