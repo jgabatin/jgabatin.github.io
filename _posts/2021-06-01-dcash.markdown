@@ -7,7 +7,7 @@ tags:   Dev
 ---
 <h1 style="color:#022851;">Project Details</h1>
 
-<a href="https://github.com/jgabatin/DCash">DCash</a> is a CLI program that mimics a digital wallet through five commands: auth, balance, deposit, send, and logout. The client (DCash) fetches data from a local web server (Gunrock) that maintains a database encapsulating users, deposits, and transfers. The server and client interact with Stripe via HTTP requests in order to charge cards that credit an authenticated user’s balance. 
+<a href="https://github.com/jgabatin/DCash" target="_blank" rel="noopener noreferrer">DCash</a> is a CLI program that mimics a digital wallet through five commands: auth, balance, deposit, send, and logout. The client (DCash) fetches data from a local web server (Gunrock) that maintains a database encapsulating users, deposits, and transfers. The server and client interact with Stripe via HTTP requests in order to charge cards that credit an authenticated user’s balance. 
 
 <b style="color:#022851;">TOPICS:</b> Distributed Systems, HTTP/1.1 & SSL, REST API       
 <b style="color:#022851;">TEAM:</b> Solo   
@@ -20,7 +20,7 @@ This project was the last assignment for my operating systems course, ECS 150. T
 
 <h1 style="color:#022851;">Functionality</h1>
 
-Documentation and specifications regarding architecture, services, and utilities can all be found <a href="https://https://github.com/kingst/gunrock_web/tree/main/docs">here</a>.
+Documentation and specifications regarding architecture, services, and utilities can all be found <a href="https://github.com/kingst/gunrock_web/tree/main/docs" target="_blank" rel="noopener noreferrer">here</a>.
 
 <h1 style="color:#022851;">Reflection</h1>
 
