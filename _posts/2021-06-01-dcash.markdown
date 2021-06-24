@@ -24,21 +24,21 @@ Detailed documentation and specifications regarding architecture, services, and 
 
 Here's a short example of a 'deposit' request from the user (assuming they're authenticated):
 
-<b>DCash Input</b>
+<b>1. DCash Input</b>
 {% highlight shell %}
 D$> deposit 20.00 4242424242424242 2024 05 242
 {% endhighlight %}
 
 <br>
 
-<b>Gunrock Request</b>
+<b>2. Gunrock Request</b>
 {% highlight shell %}
 $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposits -d amount=2000 -d stripe_token=tok_visa
 {% endhighlight %}
 
 <br>
 
-<b>Stripe Response</b>
+<b>3. Stripe Response</b>
 {% highlight json %}
 {
   "id": "ch_1J5IFZAthIUUdRayS0MjWtzZ",
@@ -56,7 +56,7 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
 
 <br>
 
-<b>Gunrock Output</b>
+<b>5. Gunrock Output</b>
 {% highlight json %}
 {
     "balance": 2000,
@@ -72,7 +72,7 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
 
 <br>
 
-<b>DCash Output</b>
+<b>5. DCash Output</b>
 {% highlight shell %}
 D$> deposit 20.00 4242424242424242 2024 05 242
 Balance: $20.00
