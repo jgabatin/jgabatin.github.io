@@ -71,6 +71,8 @@ Balance: $20.00
 D$>
 {% endhighlight %}
 
+<br>
+
 <h1 style="color:#022851;">Reflection</h1>
 
 Since working with Stripe was a first for me, I spent the majority of my time reading the <a href="https://stripe.com/docs/api/tokens/create_card" target="_blank" rel="noopener noreferrer">'Tokens'</a> and <a href="https://stripe.com/docs/api/charges/create" target="_blank" rel="noopener noreferrer">'Charges'</a> documentation to make sure I had a basic understanding of their API. This was essential in planning the control flow for my deposit service, knowing that a small mistake (like misplacing a ‘.’) in real life could put a user in a financially stressful situation! It wasn’t until I was confident in the underlying concepts did I look over the starter code that was provided. Layers of abstraction and helper functions made this another time consuming task, but I found that reading through the files allowed me to find the necessary tools to efficiently service the HTTP requests and parse HTTP responses (RapidJSON is great). After implementing the authentication service, it fortunately did not take me long to add account, deposit, and transfer CRUD methods to support the DCash client.
