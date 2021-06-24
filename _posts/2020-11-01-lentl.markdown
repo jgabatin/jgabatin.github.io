@@ -136,7 +136,7 @@ I drafted two user personas based on the details gathered from the interviews, i
 
 <h1 style="color:#3e6913;">Product Road Map</h1>
 
-Gathering our findings, the ideator and I worked together to develop the product road map and build a low-fidelity prototype. Since we were working on this project during the peak of the pandemic, we decided that clothing could not be a current product offering since we anticipated future concerns regarding safety. For that reason, we focused solely on designer belts since they were the most common accessory that a Lenter would possibly own. For the sake of time, the prototype also did not explore user flow from the Lenter’s perspective.
+Gathering our findings, the ideator and I worked together to develop the product road map and build a low-fidelity prototype. Since we were working on this project during the peak of the pandemic, we decided that clothing could not be a current product offering since we anticipated future concerns regarding safety. We focused solely on designer belts since they were the most common accessory that a Lenter would possibly own. For the sake of time, the prototype also did not explore user flow from the Lenter’s perspective.
 
 <div class="center">
   <img src="/images/lentl-map.jpg" width="90%" height="90%">
@@ -219,7 +219,7 @@ Eager to get the user-facing side of the product ready to hand off to back-end d
 
 In terms of aesthetic, I thought it would be fun to incorporate a plant-based theme that revolves around the lentil seed both in shape and color. This is reflected in the logo, the contrasting green tones, as well as the rounded containers and buttons.
 
-Other design choices were made based on basic, yet fundamental UX heuristics. The minimalist layout highlighted screen content, while also eliminating all forms of visual clutter. Legible, yet recognizable serif typefaces and icons reinforces usability and makes navigation easier for the user. Overall, while the Hi-Fi model is certainly missing other elements (search filters, additional content to reduce whitespace, etc.), I believe that it meets the objective of directing the user’s focus to the apparel without sacrificing accessibility and convenience.
+Other design choices were made based on basic, yet fundamental UX heuristics. The minimalist design highlights screen content and eliminates visual clutter. Legible, yet recognizable serif typefaces and icons reinforces usability and makes navigation easier for the user. Overall, while the Hi-Fi model is certainly missing other elements (search filters, additional content to reduce whitespace, etc.), I believe that it meets the objective of directing the user’s focus to the apparel without sacrificing accessibility and convenience.
 
 ***
 
