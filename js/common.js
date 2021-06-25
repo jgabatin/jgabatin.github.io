@@ -5,12 +5,9 @@ $(document).ready(function() {
     menuOpenIcon = $(".nav__icon-menu"),
     menuCloseIcon = $(".nav-icon__close"),
     menuList = $(".main-nav"),
-    searchOpenIcon = $(".nav__icon-search"),
-    searchCloseIcon = $(".search__close"),
-    searchBox = $(".search");
 
   /* =======================
-  // Menu and Search
+  // Menu
   ======================= */
   menuOpenIcon.click(function() {
     menuOpen();
