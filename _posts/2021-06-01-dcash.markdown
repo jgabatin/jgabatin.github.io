@@ -22,19 +22,42 @@ This project was the last assignment for my operating systems course, ECS 150. T
 
 Detailed documentation and specifications regarding architecture, services, and utilities can all be found <a href="https://github.com/kingst/gunrock_web/tree/main/docs" target="_blank" rel="noopener noreferrer">here</a>.
 
-Here's a simplified example of a deposit request from the user (assuming they're authenticated):
+Here's a simplified example of a deposit request from the user (assuming they are authenticated):
 
 <b>1. DCash Input</b>
 {% highlight shell %}
 D$> deposit 20.00 4242424242424242 2024 05 242
 {% endhighlight %}
 
-<b>2. Gunrock Request</b>
-{% highlight shell %}
-$ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposits -d amount=2000 -d stripe_token=tok_visa
+<b>2. Stripe Response</b>
+{% highlight json %}
+{
+  "id": "tok_1J5IFeAthIUUdRayQtztqSGR",
+  "object": "token",
+  "card": {
+  "id": "card_1J5IFeAthIUUdRayS1fBtJsa",
+  "object": "card",
+  "address_city": null,
+  "address_country": null,
+  "address_line1": null,
+  "address_line1_check": null,
+  "address_line2": null,
+  "address_state": null,
+  "address_zip": null,
+  "address_zip_check": null,
+  "brand": "Visa",
+  "country": "US",
+  "cvc_check": "pass",
+  ...
+}
 {% endhighlight %}
 
-<b>3. Stripe Response</b>
+<b>3. Gunrock Request</b>
+{% highlight shell %}
+$ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposits -d amount=2000 -d stripe_token=tok_1J5IFeAthIUUdRayQtztqSGR
+{% endhighlight %}
+
+<b>4. Stripe Response</b>
 {% highlight json %}
 {
   "id": "ch_1J5IFZAthIUUdRayS0MjWtzZ",
@@ -50,7 +73,7 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
 }
 {% endhighlight %}
 
-<b>4. Gunrock Output</b>
+<b>5. Gunrock Output</b>
 {% highlight json %}
 {
     "balance": 2000,
@@ -64,7 +87,7 @@ $ curl -H 'x-auth-token: 2-fobvOk3LXY7v_6NYeuDnTu' http://localhost:8080/deposit
 }
 {% endhighlight %}
 
-<b>5. DCash Output</b>
+<b>6. DCash Output</b>
 {% highlight shell %}
 D$> deposit 20.00 4242424242424242 2024 05 242
 Balance: $20.00
