@@ -9,7 +9,7 @@ description:
 # Author Settings
 author:
   name: John Gabatin
-  image: photo.jpg
+  image:
   say-hello: Hi, I’m <strong>John Gabatin</strong>
   bio: Tech, business, and design drive my passion for <a>innovative products</a>.
 
