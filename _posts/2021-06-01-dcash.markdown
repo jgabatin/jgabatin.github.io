@@ -3,7 +3,7 @@ layout: post
 title:  DCash
 date:   2021-06-01 00:00:00 +0000
 image:  dcash-main.png
-tags:   Dev
+tags:   Software
 ---
 <h1 style="color:#022851;">Project Details</h1>
 
