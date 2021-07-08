@@ -2,7 +2,7 @@
 layout: post
 title:  iTea
 date:   2021-03-01 00:00:00 +0000
-image:  
+image:  itea-main.png
 tags:   Marketing
 ---
 <h1 style="color:#3c0919;">Project Details</h1>
