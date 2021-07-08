@@ -1,8 +1,0 @@
----
-layout: post
-title:  iTea
-date:   2021-03-01 00:00:00 +0000
-image:  lentl-main.png
-tags:   Business
----
-<h1 style="color:#3c0919;">Project Details</h1>
