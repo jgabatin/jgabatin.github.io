@@ -5,6 +5,13 @@ date:   2021-03-01 00:00:00 +0000
 image:  itea-main.png
 tags:   Marketing
 ---
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
 <h1 style="color:#3c0919;">Project Details</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at facilisis quam. Nunc et consequat neque. Donec at sem mattis, ornare risus eget, egestas nunc. Sed suscipit, sem scelerisque posuere lobortis, enim metus egestas mauris, at cursus ipsum libero sed augue. Fusce vel metus massa. Donec eu elit massa. Donec porta interdum sem, at dignissim orci varius at. Pellentesque volutpat, odio sit amet porttitor rhoncus, magna lacus semper leo, et eleifend sem nibh a libero. Vivamus aliquam tincidunt magna fermentum mollis. Nunc nec tellus at libero porta rhoncus. Maecenas faucibus massa sit amet vestibulum laoreet. Morbi ultrices ut metus ac rutrum. Sed eleifend sapien faucibus augue pulvinar luctus. In dictum posuere lobortis. Integer tincidunt nulla sed nisi efficitur, vel aliquet nibh rhoncus.
@@ -13,6 +20,6 @@ In placerat urna laoreet magna rhoncus, eu aliquet neque aliquet. Donec eu odio 
 
 Nam ac cursus ligula. Nulla facilisis ex et placerat vulputate. Etiam consectetur, turpis nec malesuada feugiat, felis augue lacinia ligula, ut lacinia tellus purus non sem. Sed tempor mauris a sodales ullamcorper. In ante ante, hendrerit eget nulla eget, porttitor lobortis dui. Sed turpis ante, ultrices vitae condimentum ut, interdum nec dui. Ut pretium urna a nisi consequat, nec varius lacus auctor. Suspendisse suscipit sollicitudin est, nec tempor urna bibendum id. Maecenas a magna ultrices augue ultrices bibendum.
 
-<iframe src="https://drive.google.com/file/d/1HlEbvrhjRH_ODtNmjvq3PpzTlfIKSl-7/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe class="center" src="https://drive.google.com/file/d/1dgK9Z5rzMj1rQeA4HnLaTPaJ-cKhbW8m/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Nulla at dapibus nunc, nec hendrerit ligula. Nam aliquet elit quam, vel hendrerit elit viverra at. Mauris sollicitudin purus id libero gravida, auctor ornare arcu commodo. Fusce vitae felis enim. Morbi ornare arcu tellus, et ultricies nisl venenatis non. Duis condimentum ultrices ipsum eu lobortis. Nulla semper nulla lacus, in pretium arcu blandit vitae. Donec iaculis suscipit malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mauris lacus, egestas ac ex nec, tempus lobortis lorem. Maecenas eu est fringilla, sagittis est non, tincidunt turpis. Nam rutrum in purus lacinia venenatis. Suspendisse eu ligula velit. Donec sed pretium ipsum, non facilisis diam. Curabitur porttitor nunc id fermentum tristique.
