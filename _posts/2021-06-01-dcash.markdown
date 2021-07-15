@@ -94,8 +94,6 @@ Balance: $20.00
 D$>
 {% endhighlight %}
 
-<br>
-
 ***
 
 <h1 style="color:#022851;">Reflection</h1>
