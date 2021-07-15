@@ -137,6 +137,8 @@ Demographic information, along with purchase data, allowed us to separate custom
   </div>
 </div>
 
+<br>
+
 From these insights, our team was able to determine that iTea’s central marketing challenges revolved around customer consideration of their products and awareness of the overall brand. Some questions we asked ourselves included: 
 
 * Are the prices of drinks too high, or is it not providing enough value to the customer?
