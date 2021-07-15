@@ -149,13 +149,13 @@ From these insights, our team was able to determine that iTea’s central market
 The next step in the project was to analyze iTea’s competition. There are a variety of bubble tea spots in Davis and a majority of them are also franchises. Thus, we could safely compare these places to iTea without needing to account for possible bias towards single, local-owned eateries. For the convenience of time and for the purposes of the project, the top two boba shops listed in survey responses were chosen as the primary competitors.
 
 <div class="center">
-  <img src="/images/itea-competitors.jpg" width="85%" height="85%">
+  <img src="/images/itea-competitors.jpg" width="75%" height="75%">
 </div>
 
 After a thorough look into T4 and ShareTea’s business, our team determined that iTea is only able to differentiate through its seasonal drinks and extensive meal offerings. It was also not until the time of this project that iTea established and or re-branded its own website. The company is lacking in all other categories with respect to their bigger rivals, which is further highlighted in the following SWOT analysis.    
 
 <div class="center">
-  <img src="/images/itea-swot.jpg" width="85%" height="85%">
+  <img src="/images/itea-swot.jpg" width="75%" height="75%">
 </div>
 
 <h1 style="color:#3c0919;">KPI Estimations</h1>
