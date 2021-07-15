@@ -128,7 +128,7 @@ Demographic information, along with purchase data, allowed us to separate custom
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/itea-segments.jpg" class="slideimg" width="90%" height="90%">
+        <img src="/images/itea-segments.jpg" class="slideimg">
       </div>
       <div id="slide-2">
         <img src="/images/itea-beth.jpg" class="slideimg">
@@ -136,8 +136,6 @@ Demographic information, along with purchase data, allowed us to separate custom
     </div>
   </div>
 </div>
-
-<br>
 
 From these insights, our team was able to determine that iTea’s central marketing challenges revolved around customer consideration of their products and awareness of the overall brand. Some questions we asked ourselves included: 
 
