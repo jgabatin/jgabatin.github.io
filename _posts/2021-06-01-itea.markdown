@@ -128,7 +128,7 @@ Demographic information, along with purchase data, allowed us to separate custom
   <div class="slider">
     <div class="slides">
       <div id="slide-1">
-        <img src="/images/itea-segements.jpg" class="slideimg">
+        <img src="/images/itea-segments.jpg" class="slideimg">
       </div>
       <div id="slide-2">
         <img src="/images/itea-beth.jpg" class="slideimg">
