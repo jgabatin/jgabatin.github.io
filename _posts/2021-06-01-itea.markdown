@@ -10,6 +10,76 @@ tags:   Marketing
   display: flex;
   justify-content: center;
 }
+.slider {
+  width: 1200px;
+  text-align: center;
+  overflow: hidden;
+}
+.slides {
+  display: flex;
+  
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+.slides::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+.slides::-webkit-scrollbar-thumb {
+  background: #bbbbbb;
+  border-radius: 10px;
+}
+.slides::-webkit-scrollbar-track {
+  background: transparent;
+}
+.slides > div {
+  scroll-snap-align: start;
+  flex-shrink: 1;
+  width: 500px;
+  height: 500px;
+  margin-right: 5px;
+  border-radius: 10px;
+  background: white;
+  transform-origin: center center;
+  transform: scale(1);
+  transition: transform 0.5s;
+  position: relative;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+img.slideimg {
+  object-fit: contain;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 95%;
+  height: 95%;
+}
+.slider > a {
+  display: inline-flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: white;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin: 0 0 0.5rem 0;
+  position: relative;
+}
+.slider > a:active {
+  top: 1px;
+}
+.slider > a:focus {
+  background: #000;
+}
 </style>
 
 <h1 style="color:#3c0919;">Project Details</h1>
@@ -29,6 +99,10 @@ This quarter-long project was the foundation of the curriculum for my marketing 
 <h1 style="color:#3c0919;">Audit</h1>
 
 The first step of the project was to conduct an audit on iTea, paying close attention to its business model and the 4 P’s / 5 C’s framework. To reduce the scope of the project and due to COVID-19, our team was asked to solely focus on the local iTea cafe near the UC Davis campus.
+
+<div class="center">
+  <img src="/images/itea-5cs.jpg">
+</div>
 
 After analyzing all relevant components of iTea’s business and the current environment of the market surrounding Davis, our team determined that iTea’s competitive advantage was its close proximity to campus. While this was certainly favorable for future marketing endeavors, we were more focused on the company’s pricing model. For a boba shop that offers drinks at an average price of $4.75 each, our team wondered if iTea’s customers (mostly students) were willing to sacrifice the convenience of location for cheaper alternatives.
 
@@ -50,6 +124,21 @@ Of the 35 survey respondents, about 30% claimed that iTea’s prices were ‘hig
 
 Demographic information, along with purchase data, allowed us to separate customers into four distinct segments and identify iTea’s target persona. Recency, frequency, and monetary (RFM) scores were calculated and assigned to each individual to determine customer value. Even though our sample size was small, we found that 80% of individuals who took the survey identified as Asian American and lived less than two miles from the iTea Davis location. 
 
+<div class="center">
+  <div class="slider">
+    <div class="slides">
+      <div id="slide-1">
+        <img src="/images/itea-segements.jpg" class="slideimg">
+      </div>
+      <div id="slide-2">
+        <img src="/images/itea-beth.jpg" class="slideimg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
 From these insights, our team was able to determine that iTea’s central marketing challenges revolved around customer consideration of their products and awareness of the overall brand. Some questions we asked ourselves included: 
 
 * Are the prices of drinks too high, or is it not providing enough value to the customer?
@@ -59,7 +148,15 @@ From these insights, our team was able to determine that iTea’s central market
 
 The next step in the project was to analyze iTea’s competition. There are a variety of bubble tea spots in Davis and a majority of them are also franchises. Thus, we could safely compare these places to iTea without needing to account for possible bias towards single, local-owned eateries. For the convenience of time and for the purposes of the project, the top two boba shops listed in survey responses were chosen as the primary competitors.
 
+<div class="center">
+  <img src="/images/itea-competitors.jpg" width="75%" height="75%">
+</div>
+
 After a thorough look into T4 and ShareTea’s business, our team determined that iTea is only able to differentiate through its seasonal drinks and extensive meal offerings. It was also not until the time of this project that iTea established and or re-branded its own website. The company is lacking in all other categories with respect to their bigger rivals, which is further highlighted in the following SWOT analysis.    
+
+<div class="center">
+  <img src="/images/itea-swot.jpg">
+</div>
 
 <h1 style="color:#3c0919;">KPI Estimations</h1>
 
