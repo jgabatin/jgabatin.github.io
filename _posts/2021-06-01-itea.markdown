@@ -36,7 +36,7 @@ After analyzing all relevant components of iTea’s business and the current env
 
 We conducted focus groups (N = 20, four groups of five) to gather qualitative feedback related to customer buying decisions and created a survey (N = 35) to gather quantitative data encompassing purchase attributes. To eliminate possible bias, only participants who have been to an iTea location within the past 6 months and have purchased at least one type of product were able to take part in the focus group or survey.
 
-<h3 style="color:#3c0919;">Focus Group Findings</h3>
+<h3 style="color:#cd8560;">Focus Group Findings</h3>
 
 The group summary of the four separate discussions were as follows:
 
@@ -44,7 +44,7 @@ The group summary of the four separate discussions were as follows:
 * Customers appreciated iTea for its selection of drinks and food, but stand by the fact that it is the location that drives them there.
 * A majority of participants felt that drink quality was average to above average. They felt that iTea shines in the food options that they offer, but falls short in price and in differentiating themselves from other boba cafes.
 
-<h3 style="color:#3c0919;">Survey Findings</h3>
+<h3 style="color:#cd8560;">Survey Findings</h3>
 
 Of the 35 survey respondents, about 30% claimed that iTea’s prices were ‘higher than their liking,’ and in that same cluster, about 2/5 were inclined to buy from another competitor. More than half of these respondents also claimed that they had not seen any promotional materials or advertisements beyond the cafe’s physical location. 
 
@@ -70,6 +70,8 @@ During weekdays, we estimated traffic to average about 60 customers per hour ove
 *Disclaimer: The estimations were inflated for the purpose of the project. 
 
 <h1 style="color:#3c0919;">GTM Plan</h1>
+
+<br>
 
 <div class="center">
   <iframe src="https://drive.google.com/file/d/1dgK9Z5rzMj1rQeA4HnLaTPaJ-cKhbW8m/preview" width="100%" height="480" allow="autoplay"></iframe>
