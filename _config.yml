@@ -1,6 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-pdf: "/files/resume.pdf"
+pdf: "/files/john-gabatin-resume.pdf"
 
 # Build settings
 markdown: kramdown
