@@ -22,7 +22,7 @@
       #permalink: /:basename:output_ext
 
 #include:
-  - _pages
+  #- _pages
 
 
 # Tags
