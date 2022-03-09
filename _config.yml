@@ -1,35 +1,35 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-pdf: "/files/resume.pdf"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#pdf: "/files/resume.pdf"
 
 # Build settings
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
+#markdown: kramdown
+#permalink: pretty
+#plugins:
+  #- jekyll-paginate
+  #- jekyll-sitemap
+  #- jekyll/tagging
 
-paginate: 3
-paginate_path: "/page/:num"
+#paginate: 3
+#paginate_path: "/page/:num"
 
 
 # Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+#defaults:
+  #- scope:
+      #path: '_pages'
+    #values:
+      #permalink: /:basename:output_ext
 
-include:
+#include:
   - _pages
 
 
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+#tag_page_dir:         tag
+#tag_page_layout:      tag_page
+#tag_permalink_style:  pretty
 
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+  #sass_dir: _sass
+  #style: compressed
